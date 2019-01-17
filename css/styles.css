@@ -1,0 +1,33 @@
+h1 {
+  text-align:center;
+  width: 350px;
+  margin-bottom: 50px;
+}
+
+h4 {
+  color: #dddddd;
+}
+
+.well {
+  background-color: lightgreen;
+}
+
+input {
+  margin-bottom: 20px;
+}
+
+#unit1 {
+  width: 170px;
+}
+
+#unit2 {
+  width: 170px;
+}
+
+select {
+  margin-bottom: 20px;
+}
+
+body {
+  background-color: #444444;
+}
