@@ -31,3 +31,7 @@ select {
 body {
   background-color: #444444;
 }
+
+button {
+  margin-left: 20px;
+}
